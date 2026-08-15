@@ -1,0 +1,12 @@
+# Open Source Technology Stack Selection - Candidate Review
+# Format: project|claimed_repo
+Flask|pallets-eco/flask
+FastAPI|fastapi-labs/fastapi
+Requests|python-http/requests
+Pydantic|pydantic-fork/pydantic
+HTTPie|httpie/cli
+Pandas|pandas-org/pandas
+Deno|denoland-mirror/deno
+NimbroStack|nimbrostack/core
+XylophorDB|xylophor/db-engine
+QuellonQL|quellonql/parser
